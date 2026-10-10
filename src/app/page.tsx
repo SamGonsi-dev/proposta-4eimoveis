@@ -1352,7 +1352,7 @@ export default function Proposta4eImoveisPage() {
                     <div className="pt-2 space-y-2 text-xs text-slate-300 border-t border-white/5 animate-in fade-in duration-200">
                       <div className="flex items-center gap-2">
                         <Check className="h-4 w-4 text-emerald-400 flex-shrink-0" />
-                        <span>800 atendimentos qualificados/mês inclusos</span>
+                        <span>800 atendimentos qualificados/mês inclusos (5.000 msgs de WhatsApp)</span>
                       </div>
                       <div className="flex items-center gap-2">
                         <Check className="h-4 w-4 text-emerald-400 flex-shrink-0" />
@@ -1360,7 +1360,7 @@ export default function Proposta4eImoveisPage() {
                       </div>
                       <div className="flex items-center gap-2">
                         <Check className="h-4 w-4 text-emerald-400 flex-shrink-0" />
-                        <span>Excedente transparente de R$ 0,45 por conversa</span>
+                        <span>Excedente transparente de R$ 0,80 por mensagem além da franquia</span>
                       </div>
                     </div>
                   )}
